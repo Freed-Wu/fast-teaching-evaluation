@@ -1,4 +1,4 @@
-var choose = new Array(${1:12});
+var choose = new Array(20);
 for (var i = 0, len = choose.length; i < len; i++) {
 	choose[i] = Math.floor(Math.random()*3);
 }
