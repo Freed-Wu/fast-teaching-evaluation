@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name         fast teaching evaluation
-// @namespace    https://github.com/Freed-Wu
-// @version      0.0.1
-// @description  Evaluate teaching of NJUST.
-// @license      GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
-// @author       Wu Zhenyu
-// @match        *://202.119.81.113:9080/njlgdx/xspj/*
-// @grant        none
+// @name                fast teaching evaluation of NJUST
+// @name:zh-CN          南京理工大学快速评教
+// @namespace           https://github.com/Freed-Wu
+// @version             0.0.1
+// @description         Evaluate teaching of NJUST.
+// @description:zh-CN   快速评教（南京理工大学）
+// @license             GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
+// @author              Wu Zhenyu
+// @match               *://202.119.81.113:9080/njlgdx/xspj/*
+// @grant               none
 // ==/UserScript==
 let inputs = document.querySelectorAll("input[type=radio]");
 let choices = [];

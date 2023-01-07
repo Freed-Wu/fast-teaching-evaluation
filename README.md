@@ -25,6 +25,15 @@
 [![github/v](https://shields.io/github/v/release/Freed-Wu/fast-teaching-evaluation)](https://github.com/Freed-Wu/fast-teaching-evaluation)
 
 A script which can help you evaluate teaching automatically.
-Can be used in [tampermonkey](https://github.com/Tampermonkey/tampermonkey).
 
 ![screenshot](https://user-images.githubusercontent.com/32936898/211140824-73440621-8637-48b8-add1-e722af05c355.png)
+
+## Install
+
+- [greasy fork](https://greasyfork.org/zh-CN/scripts/457794-fast-teaching-evaluation)
+- [openuserjs](https://openuserjs.org/scripts/Freed-Wu/fast_teaching_evaluation)
+
+## Similar Projects
+
+- [南京理工大学自动评教](https://greasyfork.org/zh-CN/scripts/386650-南京理工大学自动评教)
+  Maybe better.
